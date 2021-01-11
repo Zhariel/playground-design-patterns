@@ -75,4 +75,8 @@ For this practical work, you will have to apply 4 design patterns commonly used 
 
 There is one exercise for each pattern, with a "real" situation where you could apply this pattern.
 
+You must clone this [git repository](https://gitlab.com/thomasdom-teaching/development-tools/tp-design-patterns) to get started with the following exercises.
+
+You should use IntelliJ as IDE to benefit from handy features (installing packages, running tests, etc).
+
 Let's go!

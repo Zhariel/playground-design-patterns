@@ -47,4 +47,4 @@ Take a look of the [java.lang.Math](https://docs.oracle.com/en/java/javase/11/do
 - Add a new shape (for example, an [hexagon](https://www.youtube.com/watch?v=thOifuHs6eY)).
 - Add a new formula (ex: the volume for 3-dimensional shapes like a cube).
 
-Obviously, you must refactor your code and unit tests to take into account the bonuses.
+Obviously, you must refactor your code and unit tests to take into account the new features.
