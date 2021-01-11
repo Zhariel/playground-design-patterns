@@ -1,4 +1,12 @@
-title: Simple Java Template
+title: Design Patterns
 plan:
-- title: Java Snippet
-  statement: statement.md
+- title: Introduction
+  statement: markdowns/01-introduction.md
+- title: 'Exercise 1: Strategy pattern'
+  statement: markdowns/02-exercise-1-strategy.md
+- title: 'Exercise 2: Observer pattern'
+  statement: markdowns/03-exercise-2-observer.md
+- title: 'Exercise 3: Factory Method pattern'
+  statement: markdowns/04-exercise-3-factory-method.md
+- title: 'Exercise 4: Bridge pattern'
+  statement: markdowns/05-exercise-4-bridge.md
